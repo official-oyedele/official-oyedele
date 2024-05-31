@@ -25,4 +25,3 @@ I'm a Software Developer with over Seven (7) years of experience based in Nigeri
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oyedele-olufemi/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/official_gbeng)
