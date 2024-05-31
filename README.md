@@ -1,7 +1,7 @@
 Hi there, I'm Oyedele Olufemi 👋
 
 🚀 **About Me**  
-I'm a Software Developer with over Seven (7) years of experience based in Nigeria with a passion for solving business problems using automation. I am proficient in building scalable, modular web applications using various software technologies such as HTML5, CSS, PHP, Ajax, JavaScript, Yii2, and Node.js. I am also proficient in MySQL, database administration, and using Source Version Control systems like Git and Bitbucket, which facilitate collaborative development. I have in-depth knowledge in integrating with 3rd parties, writing RESTFUL web services, and providing documentation using Swagger or Postman.
+I'm a Software Developer with over Seven (7) years of experience based in Nigeria with a passion for solving business problems using automation. I am proficient in building scalable, modular web applications using various software technologies such as Yii2, Laravel and Node.js. I am also proficient in MySQL, database administration, and using Source Version Control systems like Git and Bitbucket, which facilitate collaborative development. I have in-depth knowledge in integrating with 3rd parties, write RESTFUL web services, and provide documentation using SwaggerIO or Postman.
 
 🌱 **I’m currently learning**: Go  
 💬 **Ask me about**: My Expertise/Interests  
